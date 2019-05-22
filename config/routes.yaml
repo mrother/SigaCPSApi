@@ -1,0 +1,15 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+student:
+  path: /student
+  controller: App\Controller\SigaController::index
+
+history:
+  path: /history
+  controller: App\Controller\SigaController::history
+
+schedule:
+  path: /schedule
+  controller: App\Controller\SigaController::schedule
