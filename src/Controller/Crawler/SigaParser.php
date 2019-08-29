@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Controller\Crawler;
 
 use Symfony\Component\DomCrawler\Crawler;

@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Controller\Crawler;
 
 use GuzzleHttp\Client;
